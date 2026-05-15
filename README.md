@@ -32,7 +32,7 @@ Sistem ini bekerja secara kontinu untuk memantau tiga parameter utama lingkungan
 ## 📐 Board Schematic
 Berikut adalah skema rangkaian sistem yang dirancang menggunakan Cirkit Designer:
 
-![Board Schematic](./circuit_image(1).jpg)
+![Board Schematic](./circuit_image.png)
 
 | Komponen | Pin ESP32 | Jenis Pin |
 | :--- | :--- | :--- |
